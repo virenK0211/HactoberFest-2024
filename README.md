@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://hacktoberfest.com/wp-content/uploads/2023/09/hacktoberfest-2024-logo.png" alt="Hacktoberfest 2024 Logo" width="300px">
-
+  <img src="https://github.com/user-attachments/assets/8f4f15ce-bda0-4541-8752-2bf74477a8e7" alt="Hacktoberfest 2024 Logo" width="200px">
+</div>
   # 🎉 Welcome to Hacktoberfest 2024! 🚀
 
   [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
