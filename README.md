@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/8f4f15ce-bda0-4541-8752-2bf74477a8e7" alt="Hacktoberfest 2024 Logo" width="200px">
+  <img src="https://github.com/user-attachments/assets/8f4f15ce-bda0-4541-8752-2bf74477a8e7" alt="Hacktoberfest 2024 Logo" width="100px">
 
   # 🎉 Welcome to Hacktoberfest 2024! 🚀
 
