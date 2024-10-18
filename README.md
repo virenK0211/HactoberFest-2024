@@ -14,18 +14,18 @@ Hacktoberfest is a month-long celebration of open source software run by Digital
 ### 📅 Key Dates
 - **Preparation**: September 2024
 - **Event Duration**: October 1 - 31, 2024
-- **Wrap-up Session**: October 31, 2024[2]
+- **Wrap-up Session**: October 31, 2024
 
 ## 🚀 How to Participate
 
-1. **Register**: Sign up at [hacktoberfest.com](https://hacktoberfest.com) starting September 2024[2].
-2. **Contribute**: Make four valid pull/merge requests to participating projects on GitHub or GitLab[2].
+1. **Register**: Sign up at [hacktoberfest.com](https://hacktoberfest.com) starting September 2024.
+2. **Contribute**: Make four valid pull/merge requests to participating projects on GitHub or GitLab.
 3. **Learn**: Engage with the community and improve your skills.
-4. **Earn**: Receive a digital badge that levels up with each accepted contribution[2].
+4. **Earn**: Receive a digital badge that levels up with each accepted contribution.
 
 ## 🎨 This Year's Theme
 
-Hacktoberfest 2024 focuses on quality contributions that make a real impact. It's not just about quantity; it's about meaningful participation in the open-source community[2].
+Hacktoberfest 2024 focuses on quality contributions that make a real impact. It's not just about quantity; it's about meaningful participation in the open-source community.
 
 ## 💻 How to Contribute to This Repository
 
@@ -33,14 +33,14 @@ We welcome contributions from developers of all skill levels. Here's how you can
 
 1. **Fork the Repository**
    - Click the 'Fork' button at the top right of this page.
-   - This creates a copy of the repository in your GitHub account[1].
+   - This creates a copy of the repository in your GitHub account.
 
 2. **Clone Your Fork**
    - Open your terminal and run:
      ```
      git clone https://github.com/YOUR_USERNAME/REPOSITORY_NAME.git
      ```
-   - Replace `YOUR_USERNAME` with your GitHub username and `REPOSITORY_NAME` with the name of this repository[1].
+   - Replace `YOUR_USERNAME` with your GitHub username and `REPOSITORY_NAME` with the name of this repository.
 
 3. **Create a New Branch**
    - Navigate to the repository's directory:
@@ -54,7 +54,7 @@ We welcome contributions from developers of all skill levels. Here's how you can
 
 4. **Make Your Changes**
    - Open the project in your favorite code editor.
-   - Make your desired changes to the codebase[3].
+   - Make your desired changes to the codebase.
 
 5. **Commit Your Changes**
    - Stage your changes:
@@ -76,18 +76,18 @@ We welcome contributions from developers of all skill levels. Here's how you can
    - Go to the original repository on GitHub.
    - Click 'New Pull Request'.
    - Select your fork and the branch you created.
-   - Fill in the PR template with details about your changes[1].
+   - Fill in the PR template with details about your changes.
 
 8. **Wait for Review**
    - Project maintainers will review your PR.
    - They may ask for changes or clarifications.
-   - Make any requested changes and push them to your branch[3].
+   - Make any requested changes and push them to your branch.
 
 Remember to follow our contribution guidelines and code of conduct. Happy coding!
 
 ## 🏆 Rewards
 
-- **Digital Badge**: Unlock and level up as you contribute[2].
+- **Digital Badge**: Unlock and level up as you contribute.
 - **Learning Opportunities**: Gain real-world project experience.
 - **Community Recognition**: Get your work noticed by project maintainers.
 
@@ -95,9 +95,9 @@ Remember to follow our contribution guidelines and code of conduct. Happy coding
 
 Join virtual and in-person events worldwide:
 
-- **Kickoff Event**: Virtual session hosted by DigitalOcean[2].
-- **Bengaluru Meetup**: In-person gathering for developers in India[2].
-- **Wrap-up Session**: Virtual celebration on October 31, 2024[2].
+- **Kickoff Event**: Virtual session hosted by DigitalOcean.
+- **Bengaluru Meetup**: In-person gathering for developers in India.
+- **Wrap-up Session**: Virtual celebration on October 31, 2024.
 
 ## 🤝 Sponsors
 
