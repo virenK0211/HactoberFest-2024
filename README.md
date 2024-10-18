@@ -14,6 +14,7 @@
 
 Hacktoberfest is a month-long celebration of open source software run by DigitalOcean. It's an opportunity for everyone, from seasoned developers to open-source newcomers, to come together and contribute to open source projects.
 
+
 ### 📅 Key Dates
 - **Preparation**: September 2024
 - **Event Duration**: October 1 - 31, 2024
@@ -74,6 +75,10 @@ A big thank you to our sponsors for supporting open source:
 - **Cloudflare**
 - **Quira**
 
+<div align="center">
+  <img src="https://hacktoberfest.com/_next/static/media/sponsors-2023.ebc5fef3.svg" alt="Sponsors" width="600px">
+</div>
+
 ## 📊 Hacktoberfest Impact
 
 <div align="center">
@@ -100,6 +105,8 @@ Help us make Hacktoberfest 2024 the biggest yet! Share your participation on soc
 ### Ready to dive in? Let's code for a better digital world! 🌍💻
 
 [<img src="https://img.shields.io/badge/Register_Now-Hacktoberfest_2024-blueviolet?style=for-the-badge&logo=digitalocean&logoColor=white">](https://hacktoberfest.com)
+
+<img src="https://hacktoberfest.com/_next/static/media/discord-2023.1d93c224.svg" alt="Join Discord" width="200px">
 
 </div>
 
