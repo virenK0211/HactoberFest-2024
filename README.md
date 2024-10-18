@@ -1,5 +1,8 @@
 
-  # ![leInyk8A_400x400](https://github.com/user-attachments/assets/8f4f15ce-bda0-4541-8752-2bf74477a8e7)
+
+  <img src="https://github.com/user-attachments/assets/8f4f15ce-bda0-4541-8752-2bf74477a8e7" alt="Hacktoberfest 2024 Logo" width="300px">
+   <div align="center">
+
   
 🎉 Welcome to Hacktoberfest 2024! 🚀
 
