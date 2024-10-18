@@ -1,6 +1,6 @@
 <div align="center">
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2182ff3b-87ae-4526-9318-099df3eb31f3" alt="Hacktoberfest Banner" width="90%">
+  <img src="https://github.com/user-attachments/assets/2182ff3b-87ae-4526-9318-099df3eb31f3" alt="Hacktoberfest Banner" width="200">
 </p>
 
   # 🎉 Welcome to Hacktoberfest 2024! 🚀
