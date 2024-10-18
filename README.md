@@ -1,6 +1,6 @@
 
 
-  <img src="https://github.com/user-attachments/assets/8f4f15ce-bda0-4541-8752-2bf74477a8e7" alt="Hacktoberfest 2024 Logo" align="center" width="300px">
+  <img src="https://github.com/user-attachments/assets/8f4f15ce-bda0-4541-8752-2bf74477a8e7" alt="Hacktoberfest 2024 Logo" align="center" width="200px">
  
 
   
