@@ -1,5 +1,6 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/8f4f15ce-bda0-4541-8752-2bf74477a8e7" alt="Hacktoberfest 2024 Logo" width="200px">
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2182ff3b-87ae-4526-9318-099df3eb31f3" alt="Hacktoberfest Banner" width="90%">
+</p>
 
   # 🎉 Welcome to Hacktoberfest 2024! 🚀
 
@@ -7,9 +8,6 @@
   [![Hacktoberfest](https://img.shields.io/badge/Celebrate-Hacktoberfest%202024-blueviolet)](https://hacktoberfest.com/)
 </div>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/2182ff3b-87ae-4526-9318-099df3eb31f3" alt="Hacktoberfest Banner" width="100%">
-</p>
 
 ## 🌟 What is Hacktoberfest?
 
