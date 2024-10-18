@@ -8,7 +8,7 @@
 </div>
 
 <p align="center">
-  <img src="https://hacktoberfest.com/_next/static/media/logo-hacktoberfest--horizontal.ebc5fdc8.svg" alt="Hacktoberfest Banner" width="100%">
+  <img src="https://github.com/user-attachments/assets/2182ff3b-87ae-4526-9318-099df3eb31f3" alt="Hacktoberfest Banner" width="100%">
 </p>
 
 ## 🌟 What is Hacktoberfest?
